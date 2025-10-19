@@ -28,7 +28,7 @@ cd Shooter-Game
 pip install pygame
 
 # Run the game
-python main.py
+python shooter_game.py
 ```
 Note: Python 3.11 or older required to install pygame. 
 

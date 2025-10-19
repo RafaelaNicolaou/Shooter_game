@@ -11,7 +11,6 @@ The main objective is to **survive as a rocket in space**. You win when you **sh
 
 * Dynamic collision detection and response
 * Score and life tracking system
-* Gradually increasing difficulty
 * Game-over and victory states with clear feedback
 
 ## Installation & Execution

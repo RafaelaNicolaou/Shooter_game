@@ -30,6 +30,5 @@ pip install pygame
 # Run the game
 python main.py
 ```
-
-Would you like me to make a **short version** for the top of your GitHub page (like a 2–3 line project summary that appears before the table of contents)? That’s usually what visitors see first and helps them quickly understand what the project is about.
+Note: Python 3.11 or older required to install pygame. 
 
